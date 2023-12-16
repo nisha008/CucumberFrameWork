@@ -61,5 +61,11 @@ public class LandingPage {
 		driver.findElement(addToCart).click();
 	}
 	
+	public void Another_Develop_Branch()
+	{
+		System.out.println("new changes in develop branch named as: Another_Develop_Branch ");
+		System.out.println("yess it is cucumber framework of github");
+		System.out.println("checking");
 
+}
 }
