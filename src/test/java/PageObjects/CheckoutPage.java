@@ -52,7 +52,12 @@ public class CheckoutPage {
 		public void AddingNewMethod()
 		{
 			System.out.println("Added for GITHUB");
-		}
+			System.out.println("I am also adding");
+
+			System.out.println(" i am cucumber framebook");
+
+			System.out.println("jUST added");
+}
 	}
 	
 
