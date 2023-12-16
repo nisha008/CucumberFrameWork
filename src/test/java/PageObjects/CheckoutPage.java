@@ -49,8 +49,10 @@ public class CheckoutPage {
 			return driver.findElement(placeOrder).isDisplayed();
 		}
 		
-		
-		
+		public void AddingNewMethod()
+		{
+			System.out.println("Added for GITHUB");
+		}
 	}
 	
 
