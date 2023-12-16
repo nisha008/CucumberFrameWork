@@ -58,6 +58,16 @@ public class CheckoutPage {
 
 			System.out.println("jUST added");
 }
+		
+		
+		
+		public void AddingNewMethodInDevelopBranch()
+		{
+			System.out.println("InDevelopBranch(");
+			System.out.println("InDevelopBranch wnd line");
+
+}
+		
 	}
 	
 
