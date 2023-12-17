@@ -65,6 +65,8 @@ public class CheckoutPage {
 		{
 			System.out.println("InDevelopBranch(");
 			System.out.println("InDevelopBranch wnd line");
+			System.out.println("added from developed branch from cucumberFrameBook");
+			System.out.println("17-dec");
 
 }
 		
